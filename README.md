@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Mitesh Chaudhary
+- 👀 I’m interested in Machine Learning
+- 🌱 I’m currently learning Data Science Machine Learning
+- 📫 How to reach me - miteshchaudhary@hotmail.com
